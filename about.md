@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Welcome to this website!
+Welcome to Hudson's blog!
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+> Thanks [laobubu](http://laobubu.net) for you nice theme [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook).
