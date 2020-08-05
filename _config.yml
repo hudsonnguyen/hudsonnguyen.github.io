@@ -1,5 +1,5 @@
 # Site settings
-title: Curious Hudson 
+title: Curious Hudson
 url: "https://hudsonnguyen.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -16,7 +16,7 @@ profile:  I love mango.
 profile_links:
   Email: "mailto:hudsonnguyenx@gmail.com"
   GitHub: "https://github.com/hudsonnguyen/"
-  # You can add more profile links above, or edit _includes/sidebar.html 
+  # You can add more profile links above, or edit _includes/sidebar.html
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
@@ -29,6 +29,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
+    Note: /note/
     #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title

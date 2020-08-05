@@ -2,3 +2,5 @@ _site
 .sass-cache
 .c9
 Gemfile.lock
+husonio.code-workspace/**
+husonio.code-workspace
