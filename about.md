@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-All regards to [laobubu](http://laobubu.net) [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook).
+I'm Huy Nguyen, software developer on many languages.
+
+I would post 2 a week, for my favourite topics.
